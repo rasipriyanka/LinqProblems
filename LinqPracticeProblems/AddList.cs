@@ -9,7 +9,7 @@ namespace LinqPracticeProblems
     internal class AddList
     {
         public static List<ProductMangement> list = new List<ProductMangement>();
-        public static List<ProductMangement> AddPersonDetails()
+        public static List<ProductMangement> ProductMangement()
         {
             List<ProductMangement> list = new List<ProductMangement>()
             {
