@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace LinqPracticeProblems
 {
@@ -6,7 +9,7 @@ namespace LinqPracticeProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Linq!");
+            Console.WriteLine("Linq DataTable!");
         }
     }
 }
