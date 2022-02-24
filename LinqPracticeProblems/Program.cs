@@ -10,6 +10,8 @@ namespace LinqPracticeProblems
         static void Main(string[] args)
         {
             Console.WriteLine("Linq DataTable!");
+            AddList.AddPersonDetails();
+            DataTable1.AddDataTable();
         }
     }
 }
